@@ -1,0 +1,15 @@
+{
+    "dispositivo": {
+        "id": "ID",
+        "ubicacion": "UBICACION"
+    },
+    "directorios": {
+        "fotos": "/home/rsa/fotos/",
+        "log-files": "/home/rsa/log-files/",
+        "archivos-tmp": "/home/rsa/fotos/tmp/",
+        "resultados-csv": "/home/rsa/resultados/"
+    },
+    "drive": {
+        "coordinometro": "TOKEN-COORDINOMETROS"
+    }
+}

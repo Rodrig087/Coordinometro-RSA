@@ -1,0 +1,6 @@
+{
+	"server_address": "IP-VPN",
+	"username": "USER",
+	"password": "PASSWORD",
+	"topic_publicacion": "coordinometro/status"
+}

@@ -3,6 +3,7 @@
     "ip-gateway-principal": "IP-GATEWAY-PRINCIPAL",
     "ip-gateway-intermedio": "IP-GATEWAY-INTERMEDIO",
     "essid": "ESSID-ADHOC",
-    "key": "s:PASS-14_CARACTERES",
-    "ip-cliente-2": "IP-HOST-2"
+    "key": "s:PASS-13_CARACTERES",
+    "ip-cliente-2": "IP-HOST-2",
+    "ip-cliente-3": "IP-HOST-3"
 }

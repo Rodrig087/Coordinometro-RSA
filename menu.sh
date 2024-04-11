@@ -10,7 +10,7 @@ show_menu() {
   echo "1. Instalar librerías"
   echo "2. Preparar el entorno"
   echo "3. Actualizar"
-  echo "5. Salir"
+  echo "4. Salir"
   read -p "Ingrese el número de opción que desea ejecutar: " option
 }
 
